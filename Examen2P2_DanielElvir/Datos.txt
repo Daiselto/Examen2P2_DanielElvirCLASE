@@ -1,0 +1,30 @@
+NOTAS IMPORTANTES
+1- este archivo no debe modificarse
+2- a Java solo deben cargarse los datos de tipo alumno
+2- la estructura de los datos es la siguiente:
+
+Nombre Persona   |   Cuenta & DNI    |   correo   |    id_clase , clase    #   CAMPUS ; TIPO ; CIUDAD    |   FACULTAD
+
+Castro, Roger David Sánchez|17537&801200000818|rogersanchez1999@unitec.edu|1037,PROGRAMACION IV#CEUTEC CA;ALUMNO;TGU|INGENIERIA
+Juan Perez|Conductor Bus|es personal administrativo
+Cerna, Hector Daniel Sabillon|20929&801200420702|hector.sabillon@unitec.edu|1251,PROGRAMACIÓN II#UNITEC;ALUMNO;TGU|INGENIERIA
+Carranza, angel mendez|27279&801200010349|rosaleschris2@unitec.edu|1035,WEB#CEUTEC CA;MAESTRO;SPS|INGENIERIA
+Alvarez, Jefrey Ariel Ortez|28111&801199312848|ariel_ortez_13@unitec.edu|1035,WEB#CEUTEC CA;ALUMNO;SPS|INGENIERIA
+Osman Mejia|11151&705777000|osman.mejia@unitec.edu|1037,PROGRAMACION IV#CEUTEC CA;MAESTRO;TGU|INGENIERIA
+Colindres, Chris Sebastian Rosales|18210&801200010346|rosaleschris@unitec.edu|1037,PROGRAMACION IV#CEUTEC CA;ALUMNO;TGU|INGENIERIA
+Maria Barrios|Servicios Generales|es personal administrativo
+Cruz, Delia Vanessa Flores|41157&801199112956|deliaflores91@unitec.edu|1037,PROGRAMACION IV#CEUTEC CA;ALUMNO;TGU|INGENIERIA
+Ferrera, Josie Fabricio Sandoval|22051&819199500146|josie.sandoval@unitec.edu|1037,PROGRAMACION IV#CEUTEC CA;ALUMNO;TGU|INGENIERIA
+Osman Mejia|11151&705777000|osman.mejia@unitec.edu|1035,WEB#CEUTEC CA;MAESTRO;SPS|INGENIERIA
+BANEGAS, JOSE MANUEL|44257&801198719251|manuel.banegas@unitec.edu|1035,WEB#CEUTEC CA;ALUMNO;SPS|INGENIERIA
+Pedro Pablo|admisiones|es personal administrativo
+Caballero, Roberto Carlos Pavon|25410&801199905984|robert99@unitec.edu|1035,WEB#CEUTEC CA;ALUMNO;SPS|INGENIERIA
+Carranza, Angie Paola Baires|17856&801199908710|angiebaires@unitec.edu|1035,WEB#CEUTEC CA;ALUMNO;SPS|INGENIERIA
+CORRALES, SOFIA SARAI|16265&801199306196|sofi5@unitec.edu|1035,WEB#CEUTEC CA;ALUMNO;SPS|INGENIERIA
+Alemán, Daniel Alejandro Reyes|20939&801200417137|danielreyesaleman4@unitec.edu|1251,PROGRAMACIÓN II#UNITEC;ALUMNO;TGU|INGENIERIA
+Osman Mejia|11151&705777000|osman.mejia@unitec.edu|1251,PROGRAMACIÓN II#UNITEC;MAESTRO;TGU|INGENIERIA
+Baquedano, Carlos Andres Espinal|20974&801200417546|carlosaespinal@unitec.edu|1251,PROGRAMACIÓN II#UNITEC;ALUMNO;TGU|INGENIERIA
+Carlos Banegas|Jefe seguridad|es personal administrativo
+Cabezas, Rodrigo Andrés Vásquez|21916&810200500069|rodrigovasquez@unitec.edu|1251,PROGRAMACIÓN II#UNITEC;ALUMNO;TGU|INGENIERIA
+Carranza, angel mendez|27279&801200010349|rosaleschris2@unitec.edu|1037,PROGRAMACION IV#CEUTEC CA;MAESTRO;TGU|INGENIERIA
+
